@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory Scanner", "Memory Scanner.csproj", "{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}.Debug|x86.ActiveCfg = Debug|x86
+		{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}.Debug|x86.Build.0 = Debug|x86
+		{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}.Release|x86.ActiveCfg = Release|x86
+		{54F0C4D8-BC03-4FB2-AB3C-504C44FA13C1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1C3E01-01C5-4628-9A9D-DA93656C9E20}
+	EndGlobalSection
+EndGlobal

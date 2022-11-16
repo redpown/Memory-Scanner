@@ -1,0 +1,19 @@
+D:\projetos\C# net core\webview2\Memory Scanner\bin\Debug\net7.0-windows\Memory Scanner.exe
+D:\projetos\C# net core\webview2\Memory Scanner\bin\Debug\net7.0-windows\Memory Scanner.deps.json
+D:\projetos\C# net core\webview2\Memory Scanner\bin\Debug\net7.0-windows\Memory Scanner.runtimeconfig.json
+D:\projetos\C# net core\webview2\Memory Scanner\bin\Debug\net7.0-windows\Memory Scanner.dll
+D:\projetos\C# net core\webview2\Memory Scanner\bin\Debug\net7.0-windows\Memory Scanner.pdb
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.csproj.AssemblyReference.cache
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory_Scanner.Forms.EditDialog.resources
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory_Scanner.Forms.Main.resources
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory_Scanner.Forms.ProcessDialog.resources
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.csproj.GenerateResource.cache
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.AssemblyInfoInputs.cache
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.AssemblyInfo.cs
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.csproj.CoreCompileInputs.cache
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.dll
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\refint\Memory Scanner.dll
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.pdb
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\Memory Scanner.genruntimeconfig.cache
+D:\projetos\C# net core\webview2\Memory Scanner\obj\Debug\net7.0-windows\ref\Memory Scanner.dll
