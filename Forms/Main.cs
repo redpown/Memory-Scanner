@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -28,6 +29,8 @@ namespace Memory_Scanner.Forms
 
         private void Main_Load(object sender, EventArgs e)
         {
+            string version = Assembly.GetExecutingAssembly().GetName().Version.ToString();
+            this.Text +=  " :: " + version;
             dataTypeComboBox.SelectedIndex = 0;
         }
 
