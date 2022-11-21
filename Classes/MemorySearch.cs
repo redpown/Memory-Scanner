@@ -140,7 +140,7 @@ namespace Memory_Scanner.Classes
 
             while ((uint)current < _maxAddress && VirtualQueryEx(_handle, current, out memInfo, Marshal.SizeOf(memInfo)) != 0)
             {
-                if ((memInfo.State == 4096 || memInfo.State == 8192) && memInfo.Protect == 4 && (uint)memInfo.RegionSize != 0)
+                if (memInfo.State == 4096 && memInfo.Protect == 4 && (uint)memInfo.RegionSize != 0)
                 {
                     byte[] regionData = new byte[(int)memInfo.RegionSize];
                     int bytesRead = 0;

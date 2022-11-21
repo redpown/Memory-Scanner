@@ -1,0 +1,1 @@
+D:\projetos\C# net core\webview2\Memory Scanner\obj\x86\Release\net6.0-windows\Memory Scanner.csproj.AssemblyReference.cache
